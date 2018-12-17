@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-A
+A new version is created!
